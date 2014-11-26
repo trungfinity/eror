@@ -1,0 +1,162 @@
+{
+  "BadRequestError": {
+    "statusCode": 400,
+    "message": "Bad Request"
+  },
+  "UnauthorizedError": {
+    "statusCode": 401,
+    "message": "Unauthorized"
+  },
+  "PaymentRequiredError": {
+    "statusCode": 402,
+    "message": "Payment Required"
+  },
+  "ForbiddenError": {
+    "statusCode": 403,
+    "message": "Forbidden"
+  },
+  "NotFoundError": {
+    "statusCode": 404,
+    "message": "Not Found"
+  },
+  "MethodNotAllowedError": {
+    "statusCode": 405,
+    "message": "Method Not Allowed"
+  },
+  "NotAcceptableError": {
+    "statusCode": 406,
+    "message": "Not Acceptable"
+  },
+  "ProxyAuthenticationRequiredError": {
+    "statusCode": 407,
+    "message": "Proxy Authentication Required"
+  },
+  "RequestTimeoutError": {
+    "statusCode": 408,
+    "message": "Request Timeout"
+  },
+  "ConflictError": {
+    "statusCode": 409,
+    "message": "Conflict"
+  },
+  "GoneError": {
+    "statusCode": 410,
+    "message": "Gone"
+  },
+  "LengthRequiredError": {
+    "statusCode": 411,
+    "message": "Length Required"
+  },
+  "PreconditionFailedError": {
+    "statusCode": 412,
+    "message": "Precondition Failed"
+  },
+  "PayloadTooLargeError": {
+    "statusCode": 413,
+    "message": "Payload Too Large"
+  },
+  "UriTooLongError": {
+    "statusCode": 414,
+    "message": "URI Too Long"
+  },
+  "UnsupportedMediaTypeError": {
+    "statusCode": 415,
+    "message": "Unsupported Media Type"
+  },
+  "RangeNotSatisfiableError": {
+    "statusCode": 416,
+    "message": "Range Not Satisfiable"
+  },
+  "ExpectationFailedError": {
+    "statusCode": 417,
+    "message": "Expectation Failed"
+  },
+  "ImATeapotError": {
+    "statusCode": 418,
+    "message": "I'm a teapot"
+  },
+  "UnprocessableEntityError": {
+    "statusCode": 422,
+    "message": "Unprocessable Entity"
+  },
+  "LockedError": {
+    "statusCode": 423,
+    "message": "Locked"
+  },
+  "FailedDependencyError": {
+    "statusCode": 424,
+    "message": "Failed Dependency"
+  },
+  "UnorderedCollectionError": {
+    "statusCode": 425,
+    "message": "Unordered Collection"
+  },
+  "UpgradeRequiredError": {
+    "statusCode": 426,
+    "message": "Upgrade Required"
+  },
+  "PreconditionRequiredError": {
+    "statusCode": 428,
+    "message": "Precondition Required"
+  },
+  "TooManyRequestsError": {
+    "statusCode": 429,
+    "message": "Too Many Requests"
+  },
+  "RequestHeaderFieldsTooLargeError": {
+    "statusCode": 431,
+    "message": "Request Header Fields Too Large"
+  },
+  "UnableForLegalReasonsError": {
+    "statusCode": 451,
+    "message": "Unable For Legal Reasons"
+  },
+  "InternalServerError": {
+    "statusCode": 500,
+    "message": "Internal Server Error"
+  },
+  "NotImplementedError": {
+    "statusCode": 501,
+    "message": "Not Implemented"
+  },
+  "BadGatewayError": {
+    "statusCode": 502,
+    "message": "Bad Gateway"
+  },
+  "ServiceUnavailableError": {
+    "statusCode": 503,
+    "message": "Service Unavailable"
+  },
+  "GatewayTimeoutError": {
+    "statusCode": 504,
+    "message": "Gateway Timeout"
+  },
+  "HttpVersionNotSupportedError": {
+    "statusCode": 505,
+    "message": "HTTP Version Not Supported"
+  },
+  "VariantAlsoNegotiatesError": {
+    "statusCode": 506,
+    "message": "Variant Also Negotiates"
+  },
+  "InsufficientStorageError": {
+    "statusCode": 507,
+    "message": "Insufficient Storage"
+  },
+  "LoopDetectedError": {
+    "statusCode": 508,
+    "message": "Loop Detected"
+  },
+  "BandwidthLimitExceededError": {
+    "statusCode": 509,
+    "message": "Bandwidth Limit Exceeded"
+  },
+  "NotExtendedError": {
+    "statusCode": 510,
+    "message": "Not Extended"
+  },
+  "NetworkAuthenticationRequiredError": {
+    "statusCode": 511,
+    "message": "Network Authentication Required"
+  }
+}

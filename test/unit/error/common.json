@@ -1,0 +1,30 @@
+{
+  "UnsupportedOperationError": {
+    "statusCode": 500,
+    "message": "Unsupported Operation"
+  },
+  "ReversedNameError": {
+    "statusCode": 500,
+    "message": "Reversed Name"
+  },
+  "NameAlreadyDefinedError": {
+    "statusCode": 500,
+    "message": "Name Already Defined"
+  },
+  "InvalidOperationError": {
+    "statusCode": 500,
+    "message": "Invalid Operation"
+  },
+  "InvalidTypeError": {
+    "statusCode": 500,
+    "message": "Invalid Type"
+  },
+  "MissingValueError": {
+    "statusCode": 500,
+    "message": "Missing Value"
+  },
+  "InvalidValueError": {
+    "statusCode": 500,
+    "message": "Invalid Value"
+  }
+}
